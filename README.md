@@ -3,6 +3,16 @@ android_client
 
 ITAMCO Android Client Application
 
+This application is the first MTConnect Client app for the Android. View your Machine Tools and Controls on any of your Android devices.
+
+Great for Machine Operators, Maintenance Technicians, Engineers, Programmers, or Plant Managers.
+
+Quick and Easy Access to your MTConnect Agent over both Mobile Phone and WiFi Networks.
+
+Add, Delete, and Monitor as many machines and controls as you would like. Just select the desired Device after entering the http:// DNS or ip address and touch the "Current" button on the bottom of the screen and view in real-time your machine or control. Host Connection must be MTConnect compatible (requires MTConnect Agent).
+
+A DOM Parser was developed in the application to parse the XML stream produced by a MTConnect Agent.
+
 Some of contents of this readme can also be found at android.com, please refer to android.com for more info.
 
 Creating an Android Project
